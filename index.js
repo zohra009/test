@@ -27,3 +27,10 @@ for(var item in a){
 for(var item of a){
     console.log(item);
 }
+
+//printed numbers that are less than 5
+var num = 0;
+while(num<5){
+    console.log(num);
+    num++; //same as writing num + 1;
+}
