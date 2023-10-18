@@ -15,3 +15,5 @@ console.log ("hi");
 
 for(var num=0;num <50;num=num+2)
     console.log(num);
+var a= [1,2,3,4,5,6,7,8,9]
+a.forEach(item => console.log(item));
